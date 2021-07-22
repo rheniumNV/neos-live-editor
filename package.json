@@ -1,7 +1,7 @@
 {
   "name": "neos-live-editor",
-  "displayName": "NeosLiveEditor",
-  "description": "",
+  "displayName": "Neos Live Editor",
+  "description": "You can sync the active tab to the viewer on NeosVR.",
   "publisher": "rhenium",
   "version": "0.0.1",
   "engines": {
